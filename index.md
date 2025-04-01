@@ -1,5 +1,6 @@
 ---
 layout: default.liquid
+title: "Roxi's Public Diary"
 ---
 ## Roxi's Public Diary
 
